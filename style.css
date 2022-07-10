@@ -1,0 +1,31 @@
+table{
+  border: 10px black;
+  position: center;
+  background-color: grey;
+  margin-left: 20px;
+}
+
+thead{
+  background: black;
+  color: white;
+}
+
+tbody{
+  background: white;
+  color: black;
+}
+
+h1, h2, h3, h4, h5, h6{
+  text-align: center;
+}
+
+body{
+  background: linear-gradient(to right, #4682B4, #00FFFF, #00FA9A);
+  background-repeat: no-repeat;
+}
+
+nav{
+  text-align: center;
+  background: linear-gradient(to right, #00FA9A, #00FFFF, #4682B4);
+  margin: 20px;
+}
